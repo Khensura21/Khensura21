@@ -2,19 +2,20 @@
 
 ## I'm a Programmer, Creative Technologist, and Content Creator!
 
-Here are some ideas to get you started:
+<ul>
+  <li> 🔭 -- I’m currently working on: @grow.th and my podcast series! </li>
+  <li> 🌱 -- I’m currently learning the MERN (Mongo, Express, React/React-Native, and Node)</li>
+  <li> 👯 -- I’m looking to collaborate with any other engineers/designers/creators that are doing meaningful work! Especially in the Fitness/Health/Healthcare space. </li>
+  <li> 💬 -- Ask me about Fitness, Health, NBA Basketball, Vegan/Vegetarian Cooking, and Effective Communication </li>
+  <li> 📫  -- How to reach me: khensura.loveel@gmail.com </li>
+  <li> 😄 -- Pronouns: He/Him </li>
+  <li> ⚡ -- Fun fact: I've never broken any bones in my body 🤷🏾‍♂️ </li>
+</ul>
 
-- 🔭 I’m currently working on: @grow.th and my podcast series!
-- 🌱 I’m currently learning the MERN (Mongo, Express, React/React-Native, and Node)
-- 👯 I’m looking to collaborate with any other engineers/designers/creators that are doing meaningful work! Especially in the Fitness/Health/Healthcare space.
-- 💬 Ask me about Fitness, Health, NBA Basketball, Vegan/Vegetarian Cooking, and Effective Communication
-- 📫 How to reach me: khensura.loveel@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I've never broken any bones in my body 🤷🏾‍♂️
+```html
 
 ## Languages and Tools:
-
-<!--
-**Khensura21/Khensura21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🤔 I’m looking for help with n
--->
+ <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="100">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="100"> 
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/swift/swift.png" height="100">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="100">
