@@ -5,8 +5,8 @@
 <ul>
   <li> 🔭 -- I’m currently working on: @grow.th and my podcast series! </li>
   <li> 🌱 -- I’m currently learning the MERN (Mongo, Express, React/React-Native, and Node)</li>
-  <li> 👯 -- I’m looking to collaborate with any other engineers/designers/creators that are doing meaningful work! Especially in the Fitness/Health/Healthcare space. </li>
-  <li> 💬 -- Ask me about Fitness, Health, NBA Basketball, Vegan/Vegetarian Cooking, and Effective Communication </li>
+  <li> 👯  -- I’m looking to collaborate with any other engineers/designers/creators that are doing meaningful work! Especially in the Fitness/Health/Healthcare space. </li>
+  <li> 💬  -- Ask me about Fitness, Health, NBA Basketball, Vegan/Vegetarian Cooking, and Effective Communication </li>
   <li> 📫  -- How to reach me: khensura.loveel@gmail.com </li>
   <li> 😄 -- Pronouns: He/Him </li>
   <li> ⚡ -- Fun fact: I've never broken any bones in my body 🤷🏾‍♂️ </li>
