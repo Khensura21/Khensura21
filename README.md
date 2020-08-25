@@ -14,6 +14,7 @@
 
 ```html
 
+```
 ## Languages and Tools:
  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="100"> 
