@@ -5,7 +5,7 @@
 <ul>
   <li> 🔭 -- I’m currently working on: App Academy Open </li>
   <li> 🌱 -- I’m currently (re)acclimating myself with Javascript</li>
-  <li> 💬  -- Ask me about NBA Basketball, Marvel, Vegan/Vegetarian Cooking </li>
+  <li> 💬  -- Ask me about Javascript, NBA Basketball, Marvel, or Vegan/Vegetarian Cooking </li>
   <li> ⚡ -- Fun fact: I've never broken any bones in my body 🤷🏾‍♂️ </li>
 </ul>
 
