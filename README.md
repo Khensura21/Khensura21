@@ -1,4 +1,4 @@
-### What's Up, I'm Khensu-Ra - aka Ra 🤙🏾 🌞 👨🏾‍💻 
+### Hi 👋🏾, I'm Khensu-Ra - aka Ra  🌞 👨🏾‍💻 
 
 ## I'm a Full Stack Engineer!
 
@@ -6,7 +6,7 @@
   <li> 🔭 -- I’m currently working on: App Academy Open </li>
   <li> 🌱 -- I’m currently (re)acclimating myself with Javascript</li>
   <li> 👯  -- I’m looking to collaborate with engineers/designers/creators that are doing meaningful work! Especially in the Fitness/Health/Healthcare space. </li>
-  <li> 💬  -- Ask me about Fitness, Health, NBA Basketball, Vegan/Vegetarian Cooking, and Effective Communication </li>
+  <li> 💬  -- Ask me about NBA Basketball, Marvel, Vegan/Vegetarian Cooking </li>
   <li> 📫  -- How to reach me: khensura.loveel@gmail.com </li>
   <li> 😄 -- Pronouns: He/Him </li>
   <li> ⚡ -- Fun fact: I've never broken any bones in my body 🤷🏾‍♂️ </li>
