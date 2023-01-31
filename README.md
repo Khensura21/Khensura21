@@ -5,9 +5,7 @@
 <ul>
   <li> 🔭 -- I’m currently working on: App Academy Open </li>
   <li> 🌱 -- I’m currently (re)acclimating myself with Javascript</li>
-  <li> 👯  -- I’m looking to collaborate with engineers/designers/creators that are doing meaningful work! Especially in the Fitness/Health/Healthcare space. </li>
   <li> 💬  -- Ask me about NBA Basketball, Marvel, Vegan/Vegetarian Cooking </li>
-  <li> 📫  -- How to reach me: khensura.loveel@gmail.com </li>
   <li> ⚡ -- Fun fact: I've never broken any bones in my body 🤷🏾‍♂️ </li>
 </ul>
 
