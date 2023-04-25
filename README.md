@@ -3,8 +3,8 @@
 ## I'm a Full Stack Engineer!
 
 <ul>
-  <li> 🔭 -- I’m currently working on: App Academy Open </li>
-  <li> 🌱 -- I’m currently (re)acclimating myself with Javascript</li>
+  <li> 🔭 -- I’m currently working on: FrontEnd Enggineering & Exploring AI Applications 🦾  </li>
+  <li> 🌱 -- I’m currently exploring: React/React-Native/SwiftUI/Swift/Javascript</li>
   <li> 💬  -- Ask me about Javascript, NBA Basketball, Marvel, or Vegan/Vegetarian Cooking </li>
   <li> ⚡ -- Fun fact: I've never broken any bones in my body 🤷🏾‍♂️ </li>
 </ul>
